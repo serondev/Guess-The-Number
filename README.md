@@ -1,1 +1,2 @@
-# Guess-The-Number
+# Guess The Number
+### This program is a simple number guessing game. The program generates a random number between 1 and 10, and the user is prompted to guess the number. The user has 5 attempts to correctly guess the number. If they guess correctly on the first attempt, they receive 1 point. If they take more than one attempt, they receive 1 point minus 20% of the number of attempts (e.g. if they take 3 attempts, they would receive 0.6 points). If they do not guess correctly within 5 attempts, they receive no points. After each round, the user is prompted to play again, and the game continues until the user chooses to stop. The total score is displayed at the end of the game.
